@@ -341,7 +341,7 @@ namespace OLED12864_I2C {
     export function clear() {
         _screen.fill(0)
         _screen[0] = 0x40
-        draw()
+        //draw()
     }
 
     /**
