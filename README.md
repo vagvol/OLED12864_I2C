@@ -8,6 +8,8 @@ https://github.com/fizban99/microbit_ssd1306
 Author: shaoziyang  
 Date:   2018.Mar  
 
+Updated by vagvol
+
 ![](oled.png)  
   
 
